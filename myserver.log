@@ -1,0 +1,4 @@
+Sat, 09 Dec 2017 02:45:29 net.py[line:31] INFO From IP:192.168.1.5
+Sat, 09 Dec 2017 02:45:29 net.py[line:34] INFO Get requestweixin.zip
+Sat, 09 Dec 2017 02:45:29 net.py[line:41] INFO Out:weixin.zip
+root        : INFO     Out:weixin.zip
